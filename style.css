@@ -159,8 +159,8 @@ section {
 
 /*Circle picture */
 .section_pic-container img {
-  height: 350px;
-  width: 350px;
+  height: 300px;
+  width: 300px;
   border-radius: 50%;
   border: 1px solid gray;
 }
@@ -202,6 +202,7 @@ section {
 .title {
   font-size: 2rem;
   text-align: center;
+  margin: 47px;
 }
 
 #socials-container {
